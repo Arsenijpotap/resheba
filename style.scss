@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+    background-color: antiquewhite;
+}
+img{
+ 
+  width: 100%;
+   box-shadow: 0px 0px 20px black;
+   border-radius: 2%;
+}
+.books{
+    justify-content: space-around;
+   display: flex;
+ margin: 5% auto;
+   
+}
+a{
+display: flex;
+align-items: center;
+   
+ width: 30%;
+    height: auto;
+}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    font-size: 310%;
+}
